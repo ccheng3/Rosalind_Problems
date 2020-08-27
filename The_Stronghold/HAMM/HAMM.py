@@ -18,6 +18,9 @@
 # input and copy+paste the two DNA sequences into the program 
 # console.
 
+# EDIT: turns out the input data file consists of two sequences
+# that expand horizont
+
 seq_one = input("Enter the first DNA sequence: ")
 seq_two = input("Enter the second DNA sequence: ")
 
